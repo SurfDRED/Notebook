@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Записная книжка</string>
+    <string name="Title">Записная книжка</string>
+    <string name="SubTitleNotebook">Ячменцев Д. Н.</string>
+    <string name="txtNote">Заметка:</string>
+    <string name="editNote" />
+    <string name="btnSave">Сохранить</string>
+</resources>
